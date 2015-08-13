@@ -1,5 +1,7 @@
 # Tuddy
 
+[![Join the chat at https://gitter.im/specerator/tuddy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/specerator/tuddy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## EXPERIMENTAL
 
 *Export, import, synchronize, stories, tasks, todos, such as Trello, Pivotal Tracker, JIRA, Github, etc.*
